@@ -1,4 +1,13 @@
-# Comment
+# Typical files to ignore:
+#   compiled source code
+#   packages and compressed files
+#   logs and databases
+#   operating system generated files
+#   user-uploaded assets (images, PDFs, videos)
+#
+# other tips in https://github.com/github/gitignore 
+#   and https://help.github.com/articles/ignoring-files
+
 tempfile.txt
 *.zip
 *.gz
